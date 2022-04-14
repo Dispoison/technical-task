@@ -1,0 +1,8 @@
+INPUT_FILE_NOT_FOUND = 'Dictionary file not found!'
+INPUT_FILE_IS_EMPTY = 'The Dictionary file does not contain any words!'
+DIFFERENT_WORD_LENGTHS = 'All words must have the same length!'
+START_WORD_NOT_FOUND = 'The start word is not in the word list!'
+END_WORD_NOT_FOUND = 'The end word is not in the word list!'
+MISSING_PATH = 'No Way!'
+FILE_HAS_NO_EXTENSION = 'The resulting file has no extension'
+ALGORITHM_STARTED = 'The algorithm for finding the shortest path began to work'
